@@ -5,16 +5,24 @@
     <description>To Be A Lean Developer!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 05 Dec 2016 22:18:30 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Dec 2016 22:18:30 -0500</lastBuildDate>
+    <pubDate>Mon, 05 Dec 2016 22:32:01 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Dec 2016 22:32:01 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>我的第一篇博客</title>
-        <description>&lt;p&gt;花了一个晚上的时间，终于研究好了使用 &lt;a href=&quot;https://jekyllrb.com&quot;&gt;jekyll&lt;/a&gt; ( 原本是使用 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt; ) 配合&lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;搭建的博客。
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“没有一个像样的博客哪好意思说自己是程序猿?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+
+&lt;p&gt;作为一个程序员，Blog 这种东西要是挂在大众博客网站上就太没意思了。主要是觉得大部分 Blog 服务都太丑&lt;/p&gt;
+
+&lt;p&gt;于是花了一天的时间，研究好了使用 &lt;a href=&quot;https://jekyllrb.com&quot;&gt;jekyll&lt;/a&gt; ( 原本是使用 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt; ) 配合&lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;搭建的博客。
 目前博客还有很多问题没有解决，功能也不齐全，我会慢慢完善的。&lt;/p&gt;
 
-&lt;h4 id=&quot;总之我要先来一句&quot;&gt;总之我要先来一句&lt;/h4&gt;
+&lt;h4 id=&quot;按照国际惯例-先来一句&quot;&gt;按照国际惯例 先来一句&lt;/h4&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;hello world
 &lt;/code&gt;&lt;/pre&gt;
