@@ -3,15 +3,15 @@
   <channel>
     <title>Aaron's Blog</title>
     <description>To Be A Lean Developer!</description>
-    <link>https://aaronss.github.io/</link>
-    <atom:link href="https://aaronss.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 05 Dec 2016 20:21:52 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Dec 2016 20:21:52 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 05 Dec 2016 20:52:29 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Dec 2016 20:52:29 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>我的第一篇博客</title>
-        <description>&lt;p&gt;花了一个晚上的时间，终于研究好了使用 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt; 配合&lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;搭建的博客。
+        <description>&lt;p&gt;花了一个晚上的时间，终于研究好了使用 &lt;a href=&quot;https://jekyllrb.com&quot;&gt;jekyll&lt;/a&gt; ( 原本是使用 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt; ) 配合&lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;搭建的博客。
 目前博客还有很多问题没有解决，功能也不齐全，我会慢慢完善的。
 总之先来一句&lt;/p&gt;
 
@@ -20,8 +20,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 05 Dec 2016 07:00:00 -0500</pubDate>
-        <link>https://aaronss.github.io/2016/12/05/hello/</link>
-        <guid isPermaLink="true">https://aaronss.github.io/2016/12/05/hello/</guid>
+        <link>http://localhost:4000/2016/12/05/hello/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/05/hello/</guid>
         
         <category>hello-world</category>
         
