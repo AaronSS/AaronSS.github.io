@@ -3,10 +3,10 @@
   <channel>
     <title>Aaron's Blog</title>
     <description>To Be A Lean Developer!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 06 Dec 2016 16:06:18 -0500</pubDate>
-    <lastBuildDate>Tue, 06 Dec 2016 16:06:18 -0500</lastBuildDate>
+    <link>https://aaronss.github.io/</link>
+    <atom:link href="https://aaronss.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 06 Dec 2016 16:10:37 -0500</pubDate>
+    <lastBuildDate>Tue, 06 Dec 2016 16:10:37 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -34,8 +34,8 @@
 &lt;p&gt;最近&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Dec 2016 07:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016/12/06/windows-setup/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/06/windows-setup/</guid>
+        <link>https://aaronss.github.io/2016/12/06/windows-setup/</link>
+        <guid isPermaLink="true">https://aaronss.github.io/2016/12/06/windows-setup/</guid>
         
         <category>windows</category>
         
@@ -66,8 +66,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 05 Dec 2016 07:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016/12/05/hello/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/05/hello/</guid>
+        <link>https://aaronss.github.io/2016/12/05/hello/</link>
+        <guid isPermaLink="true">https://aaronss.github.io/2016/12/05/hello/</guid>
         
         <category>hello-world</category>
         
