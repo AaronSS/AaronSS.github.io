@@ -76,7 +76,7 @@ https://software-download.microsoft.com/pr/Win10_1607_Chinese(Simplified)_x64.is
 
 **英文版**  
 ```
-https://software-download.microsoft.com/pr/Win10_1607_Chinese(Simplified)_x64.iso?t=a416b633-7402-4d2a-a9d3-af772874e0ed&e=1481149901&h=289084f046ff9973de097fbfc95c636d
+https://software-download.microsoft.com/pr/Win10_1607_EnglishInternational_x64.iso?t=62cecda0-f22e-4a22-b20d-3eef1a877f76&e=1481149911&h=a5f408f20cae41dcf39a22c432af799c
 ```
 
 ## 制作可移动安装介质
