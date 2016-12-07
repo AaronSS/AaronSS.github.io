@@ -45,16 +45,16 @@ tags:
 你有 Windows 10 Home 和 Windows 10 Pro 两种选择
 关于两个版本的区别，可以参考[维基百科](https://zh.wikipedia.org/zh-cn/Windows_10%E7%89%88%E6%9C%AC%E5%88%97%E8%A1%A8)上的说明
 
-- 懒得看觉得电脑能用能打游戏就好的可以直接无脑购买 [Home](https://www.microsoftstore.com/store/msusa/en_US/pdp/Windows-10-Home/productID.319937100?ICID=Windows_Win10Home_ModE) 版
-- 需要硬盘加密和远程桌面等功能的购买 [Pro](https://www.microsoftstore.com/store/msusa/en_US/pdp/Windows-10-Pro/productID.319935900?ICID=Windows_Win10Pro_ModE) 版  
+- 懒于思考觉得电脑能用能打游戏就好的可以直接无脑购买 [Home](https://www.microsoftstore.com/store/msusa/en_US/pdp/Windows-10-Home/productID.319937100?ICID=Windows_Win10Home_ModE) 版
+- 需要硬盘加密和远程桌面等功能的则购买 [Pro](https://www.microsoftstore.com/store/msusa/en_US/pdp/Windows-10-Pro/productID.319935900?ICID=Windows_Win10Pro_ModE) 版  
 ~~常念微软大法好，Home版就会变成Pro版啦~~~
 
 在微软官方商城上购买 Download 的，直接下载  
 若购买 USB Flash Driver 的，则直接跳过制作U盘安装器的过程
 
 #### 从第三方网站获取 Windows 10 安装镜像
-选择此选项可以安装**正版**和**盗版**Windows
-*按照本博客的方法安装，盗版和正版在实际用上没有任何差别，就看你有没有支持正版的心*
+选择此选项可以安装**正版**和**盗版**Windows  
+*按照本博客的方法安装，盗版和正版在实际用上没有任何差别，就看你有没有支持正版的心*  
 ~~常念微软大法好，盗版会变成正版哦~~
 
 #### 从[windowsiso.net](http://windowsiso.net/)下载
@@ -67,7 +67,7 @@ tags:
 
 #### 懒人一键下载
 
-都已经懒到如这种度了，相信说明什么的也你不想看了，那你一定会喜欢这种简单粗♂暴的方式
+都已经懒到如这种度了，说明什么的也你不想看了，那你一定会喜欢这种简单~~粗♂暴~~的方式
 
 **中文版**  
 ```
@@ -81,5 +81,12 @@ https://software-download.microsoft.com/pr/Win10_1607_EnglishInternational_x64.i
 
 ## 制作可移动安装介质
 *就是U盘启动器啦*
+
+#### 下载安装 [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/files/latest/download)
+
+安装过程省略。。。
+
+#### 写入镜像到U盘
+此操作会**清除U盘所有数据**
 
 # 我居然没写完就交上来了\_(:3」∠)\_
