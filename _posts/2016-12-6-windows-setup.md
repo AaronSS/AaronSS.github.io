@@ -60,8 +60,8 @@ tags:
 #### 从[windowsiso.net](http://windowsiso.net/)下载
 
 - 本教程适合所以 Windows 7 或以上的版本，你可以选择下载其他版本的 Windows 进行安装
-- Windows N 和 Windows KN 并不建议大家安装，具体原因你可以去问[谷歌娘](www.google.com)
-- 请下载 **X64** 版本 X64比X86性能更强，具体问万能的[谷歌娘](www.google.com)
+- Windows N 和 Windows KN 并不建议大家安装，具体原因你可以去问[谷歌娘](https://www.google.com/)
+- 请下载 **X64** 版本 X64比X86性能更强，具体问万能的[谷歌娘](https://www.google.com/)
 ~~十年高龄老爷机请选择X86~~
 - 本教程适用于各种语言版的 Windows ,你可以自由的选择系统语言(安装后可更改)
 
@@ -84,9 +84,10 @@ https://software-download.microsoft.com/pr/Win10_1607_EnglishInternational_x64.i
 
 #### 下载安装 [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/files/latest/download)
 
-安装过程省略。。。
+安装过程略。。。  
+~~脑补我已经很详细地写在这里了~~
 
 #### 写入镜像到U盘
-此操作会**清除U盘所有数据**
+此操作会清除U盘**所有数据**
 
 # 我居然没写完就交上来了\_(:3」∠)\_

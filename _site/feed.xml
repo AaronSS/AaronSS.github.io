@@ -5,8 +5,8 @@
     <description>To Be A Lean Developer!</description>
     <link>https://aaronss.github.io/</link>
     <atom:link href="https://aaronss.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 07 Dec 2016 13:44:54 -0500</pubDate>
-    <lastBuildDate>Wed, 07 Dec 2016 13:44:54 -0500</lastBuildDate>
+    <pubDate>Wed, 07 Dec 2016 14:00:38 -0500</pubDate>
+    <lastBuildDate>Wed, 07 Dec 2016 14:00:38 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -67,8 +67,8 @@
 
 &lt;ul&gt;
   &lt;li&gt;本教程适合所以 Windows 7 或以上的版本，你可以选择下载其他版本的 Windows 进行安装&lt;/li&gt;
-  &lt;li&gt;Windows N 和 Windows KN 并不建议大家安装，具体原因你可以去问&lt;a href=&quot;www.google.com&quot;&gt;谷歌娘&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;请下载 &lt;strong&gt;X64&lt;/strong&gt; 版本 X64比X86性能更强，具体问万能的&lt;a href=&quot;www.google.com&quot;&gt;谷歌娘&lt;/a&gt;
+  &lt;li&gt;Windows N 和 Windows KN 并不建议大家安装，具体原因你可以去问&lt;a href=&quot;https://www.google.com/&quot;&gt;谷歌娘&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;请下载 &lt;strong&gt;X64&lt;/strong&gt; 版本 X64比X86性能更强，具体问万能的&lt;a href=&quot;https://www.google.com/&quot;&gt;谷歌娘&lt;/a&gt;
 &lt;del&gt;十年高龄老爷机请选择X86&lt;/del&gt;&lt;/li&gt;
   &lt;li&gt;本教程适用于各种语言版的 Windows ,你可以自由的选择系统语言(安装后可更改)&lt;/li&gt;
 &lt;/ul&gt;
@@ -92,10 +92,11 @@
 
 &lt;h4 id=&quot;下载安装-win32-disk-imager&quot;&gt;下载安装 &lt;a href=&quot;https://sourceforge.net/projects/win32diskimager/files/latest/download&quot;&gt;Win32 Disk Imager&lt;/a&gt;&lt;/h4&gt;
 
-&lt;p&gt;安装过程省略。。。&lt;/p&gt;
+&lt;p&gt;安装过程略。。。&lt;br /&gt;
+&lt;del&gt;脑补我已经很详细地写在这里了&lt;/del&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;写入镜像到u盘&quot;&gt;写入镜像到U盘&lt;/h4&gt;
-&lt;p&gt;此操作会&lt;strong&gt;清除U盘所有数据&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此操作会清除U盘&lt;strong&gt;所有数据&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;我居然没写完就交上来了_3_&quot;&gt;我居然没写完就交上来了_(:3」∠)_&lt;/h1&gt;
 </description>
