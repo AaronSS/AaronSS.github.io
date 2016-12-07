@@ -3,10 +3,10 @@
   <channel>
     <title>Aaron's Blog</title>
     <description>To Be A Lean Developer!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 06 Dec 2016 23:36:45 -0500</pubDate>
-    <lastBuildDate>Tue, 06 Dec 2016 23:36:45 -0500</lastBuildDate>
+    <link>https://aaronss.github.io/</link>
+    <atom:link href="https://aaronss.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 06 Dec 2016 23:43:05 -0500</pubDate>
+    <lastBuildDate>Tue, 06 Dec 2016 23:43:05 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -52,7 +52,7 @@
 &lt;ul&gt;
   &lt;li&gt;懒得看觉得电脑能用能打游戏就好的可以直接无脑购买 &lt;a href=&quot;https://www.microsoftstore.com/store/msusa/en_US/pdp/Windows-10-Home/productID.319937100?ICID=Windows_Win10Home_ModE&quot;&gt;Home&lt;/a&gt; 版&lt;/li&gt;
   &lt;li&gt;需要硬盘加密和远程桌面等功能的购买 &lt;a href=&quot;https://www.microsoftstore.com/store/msusa/en_US/pdp/Windows-10-Pro/productID.319935900?ICID=Windows_Win10Pro_ModE&quot;&gt;Pro&lt;/a&gt; 版&lt;br /&gt;
-&lt;del&gt;长念微软大法好，Home版就会变成Pro版啦&lt;/del&gt;~&lt;/li&gt;
+&lt;del&gt;常念微软大法好，Home版就会变成Pro版啦&lt;/del&gt;~&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;在微软官方商城上购买 Download 的，直接下载&lt;br /&gt;
@@ -75,7 +75,7 @@
 
 &lt;h4 id=&quot;懒人一键下载&quot;&gt;懒人一键下载&lt;/h4&gt;
 
-&lt;p&gt;都已经懒到如这种度了，相信你说明什么的也不想看了，那你一定会喜欢这种简单粗♂暴的方式&lt;/p&gt;
+&lt;p&gt;都已经懒到如这种度了，相信说明什么的也你不想看了，那你一定会喜欢这种简单粗♂暴的方式&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;中文版&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;https://software-download.microsoft.com/pr/Win10_1607_Chinese(Simplified)_x64.iso?t=a416b633-7402-4d2a-a9d3-af772874e0ed&amp;amp;e=1481149901&amp;amp;h=289084f046ff9973de097fbfc95c636d
@@ -93,8 +93,8 @@
 &lt;h1 id=&quot;我居然没写完就交上来了_3_&quot;&gt;我居然没写完就交上来了_(:3」∠)_&lt;/h1&gt;
 </description>
         <pubDate>Tue, 06 Dec 2016 07:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016/12/06/windows-setup/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/06/windows-setup/</guid>
+        <link>https://aaronss.github.io/2016/12/06/windows-setup/</link>
+        <guid isPermaLink="true">https://aaronss.github.io/2016/12/06/windows-setup/</guid>
         
         <category>windows</category>
         
@@ -125,8 +125,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 05 Dec 2016 07:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016/12/05/hello/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/05/hello/</guid>
+        <link>https://aaronss.github.io/2016/12/05/hello/</link>
+        <guid isPermaLink="true">https://aaronss.github.io/2016/12/05/hello/</guid>
         
         <category>hello-world</category>
         

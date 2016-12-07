@@ -47,7 +47,7 @@ tags:
 
 - 懒得看觉得电脑能用能打游戏就好的可以直接无脑购买 [Home](https://www.microsoftstore.com/store/msusa/en_US/pdp/Windows-10-Home/productID.319937100?ICID=Windows_Win10Home_ModE) 版
 - 需要硬盘加密和远程桌面等功能的购买 [Pro](https://www.microsoftstore.com/store/msusa/en_US/pdp/Windows-10-Pro/productID.319935900?ICID=Windows_Win10Pro_ModE) 版  
-~~长念微软大法好，Home版就会变成Pro版啦~~~
+~~常念微软大法好，Home版就会变成Pro版啦~~~
 
 在微软官方商城上购买 Download 的，直接下载  
 若购买 USB Flash Driver 的，则直接跳过制作U盘安装器的过程
