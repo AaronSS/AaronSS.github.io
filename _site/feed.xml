@@ -3,14 +3,14 @@
   <channel>
     <title>Aaron's Blog</title>
     <description>To Be A Lean Developer!</description>
-    <link>https://aaronss.github.io/</link>
-    <atom:link href="https://aaronss.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 07 Dec 2016 14:00:38 -0500</pubDate>
-    <lastBuildDate>Wed, 07 Dec 2016 14:00:38 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 16 Dec 2016 10:09:43 -0500</pubDate>
+    <lastBuildDate>Fri, 16 Dec 2016 10:09:43 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>从零开始安装 Windows 10</title>
+        <title>从零开始安装 Windows</title>
         <description>&lt;h2 id=&quot;程序猿的苦衷&quot;&gt;程序猿的苦衷&lt;/h2&gt;
 
 &lt;blockquote&gt;
@@ -66,8 +66,8 @@
 &lt;h4 id=&quot;从windowsisonet下载&quot;&gt;从&lt;a href=&quot;http://windowsiso.net/&quot;&gt;windowsiso.net&lt;/a&gt;下载&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;本教程适合所以 Windows 7 或以上的版本，你可以选择下载其他版本的 Windows 进行安装&lt;/li&gt;
-  &lt;li&gt;Windows N 和 Windows KN 并不建议大家安装，具体原因你可以去问&lt;a href=&quot;https://www.google.com/&quot;&gt;谷歌娘&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;本教程适合所以 Windows 7 及以上的版本，你可以选择下载其他版本的 Windows 进行安装&lt;/li&gt;
+  &lt;li&gt;Windows 10 N 和 Windows 10 KN 并不建议大家安装，具体原因你可以去问&lt;a href=&quot;https://www.google.com/&quot;&gt;谷歌娘&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;请下载 &lt;strong&gt;X64&lt;/strong&gt; 版本 X64比X86性能更强，具体问万能的&lt;a href=&quot;https://www.google.com/&quot;&gt;谷歌娘&lt;/a&gt;
 &lt;del&gt;十年高龄老爷机请选择X86&lt;/del&gt;&lt;/li&gt;
   &lt;li&gt;本教程适用于各种语言版的 Windows ,你可以自由的选择系统语言(安装后可更改)&lt;/li&gt;
@@ -98,11 +98,26 @@
 &lt;h4 id=&quot;写入镜像到u盘&quot;&gt;写入镜像到U盘&lt;/h4&gt;
 &lt;p&gt;此操作会清除U盘&lt;strong&gt;所有数据&lt;/strong&gt;&lt;/p&gt;
 
+&lt;p&gt;先插上U盘，再打开刚刚安装好的程序&lt;/p&gt;
+
+&lt;p&gt;程序默认是选择了U盘的，可以在Device选项更改&lt;/p&gt;
+
+&lt;p&gt;然后点击文件夹图标，像这样(我的截图没有插U盘)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/windows/w1.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;然后在文件类型那选择所有文件类型，就像这样&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/windows/w2.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;打开下载好的镜像，点击&lt;strong&gt;Write&lt;/strong&gt;按钮&lt;br /&gt;
+进度条走完以后，Windows安装介质就制作完成了&lt;/p&gt;
+
 &lt;h1 id=&quot;我居然没写完就交上来了_3_&quot;&gt;我居然没写完就交上来了_(:3」∠)_&lt;/h1&gt;
 </description>
         <pubDate>Tue, 06 Dec 2016 07:00:00 -0500</pubDate>
-        <link>https://aaronss.github.io/2016/12/06/windows-setup/</link>
-        <guid isPermaLink="true">https://aaronss.github.io/2016/12/06/windows-setup/</guid>
+        <link>http://localhost:4000/2016/12/06/windows-setup/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/06/windows-setup/</guid>
         
         <category>windows</category>
         
@@ -133,8 +148,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 05 Dec 2016 07:00:00 -0500</pubDate>
-        <link>https://aaronss.github.io/2016/12/05/hello/</link>
-        <guid isPermaLink="true">https://aaronss.github.io/2016/12/05/hello/</guid>
+        <link>http://localhost:4000/2016/12/05/hello/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/05/hello/</guid>
         
         <category>hello-world</category>
         

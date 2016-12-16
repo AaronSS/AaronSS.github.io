@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "从零开始安装 Windows 10"
+title:      "从零开始安装 Windows"
 subtitle:   "以后装机不求人"
 date:       2016-12-06 12:00:00
 author:     "Aaron"
@@ -59,8 +59,8 @@ tags:
 
 #### 从[windowsiso.net](http://windowsiso.net/)下载
 
-- 本教程适合所以 Windows 7 或以上的版本，你可以选择下载其他版本的 Windows 进行安装
-- Windows N 和 Windows KN 并不建议大家安装，具体原因你可以去问[谷歌娘](https://www.google.com/)
+- 本教程适合所以 Windows 7 及以上的版本，你可以选择下载其他版本的 Windows 进行安装
+- Windows 10 N 和 Windows 10 KN 并不建议大家安装，具体原因你可以去问[谷歌娘](https://www.google.com/)
 - 请下载 **X64** 版本 X64比X86性能更强，具体问万能的[谷歌娘](https://www.google.com/)
 ~~十年高龄老爷机请选择X86~~
 - 本教程适用于各种语言版的 Windows ,你可以自由的选择系统语言(安装后可更改)
@@ -89,5 +89,20 @@ https://software-download.microsoft.com/pr/Win10_1607_EnglishInternational_x64.i
 
 #### 写入镜像到U盘
 此操作会清除U盘**所有数据**
+
+先插上U盘，再打开刚刚安装好的程序
+
+程序默认是选择了U盘的，可以在Device选项更改
+
+然后点击文件夹图标，像这样(我的截图没有插U盘)
+
+![img](/img/windows/w1.png)
+
+然后在文件类型那选择所有文件类型，就像这样
+
+![img](/img/windows/w2.png)
+
+打开下载好的镜像，点击**Write**按钮  
+进度条走完以后，Windows安装介质就制作完成了
 
 # 我居然没写完就交上来了\_(:3」∠)\_
