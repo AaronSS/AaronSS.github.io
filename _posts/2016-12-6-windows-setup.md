@@ -35,7 +35,7 @@ tags:
 或微软官网购买 USB Flash Driver
 - 网络连接 ~~没有网络的可以用手机开热点~~
 
-## 获取 Windows 10 安装镜像
+## 获取 Windows 安装镜像
 这里我提供了多种途径，适合各种不同情况的同学(仅限非大陆用户)
 
 #### 从微软官网购买正版 Windows 10
@@ -104,5 +104,15 @@ https://software-download.microsoft.com/pr/Win10_1607_EnglishInternational_x64.i
 
 打开下载好的镜像，点击**Write**按钮  
 进度条走完以后，Windows安装介质就制作完成了
+
+## 从安装介质启动
+
+#### BIOS 设置
+
+首先你需要知道自己电脑进入 BIOS 的按钮是什么  
+一般来讲，当你按下开机按钮后的第一个画面上都会有显示的  
+没有的话，可以点击[这里](https://www.google.com)，然后你知道要怎么做了
+
+
 
 # 我居然没写完就交上来了\_(:3」∠)\_

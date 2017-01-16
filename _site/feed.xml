@@ -5,9 +5,61 @@
     <description>To Be A Lean Developer!</description>
     <link>https://aaronss.github.io/</link>
     <atom:link href="https://aaronss.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 16 Dec 2016 10:12:52 -0500</pubDate>
-    <lastBuildDate>Fri, 16 Dec 2016 10:12:52 -0500</lastBuildDate>
+    <pubDate>Mon, 16 Jan 2017 01:09:02 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2017 01:09:02 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>语言各数据类型的极限数值</title>
+        <description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#define MB_LEN_MAX    5             // max. # bytes in multibyte char
+#define SHRT_MIN    (-32768)        // minimum (signed) short value
+#define SHRT_MAX      32767         // maximum (signed) short value
+#define USHRT_MAX     0xffff        // maximum unsigned short value
+#define INT_MIN     (-2147483647 - 1) // minimum (signed) int value
+#define INT_MAX       2147483647    // maximum (signed) int value
+#define UINT_MAX      0xffffffff    // maximum unsigned int value
+#define LONG_MIN    (-2147483647L - 1) // minimum (signed) long value
+#define LONG_MAX      2147483647L   // maximum (signed) long value
+#define ULONG_MAX     0xffffffffUL  // maximum unsigned long value
+#define LLONG_MAX     9223372036854775807i64       // maximum signed long long int value
+#define LLONG_MIN   (-9223372036854775807i64 - 1)  // minimum signed long long int value
+#define ULLONG_MAX    0xffffffffffffffffui64       // maximum unsigned long long int value
+
+#define _I8_MIN     (-127i8 - 1)    // minimum signed 8 bit value
+#define _I8_MAX       127i8         // maximum signed 8 bit value
+#define _UI8_MAX      0xffui8       // maximum unsigned 8 bit value
+
+#define _I16_MIN    (-32767i16 - 1) // minimum signed 16 bit value
+#define _I16_MAX      32767i16      // maximum signed 16 bit value
+#define _UI16_MAX     0xffffui16    // maximum unsigned 16 bit value
+
+#define _I32_MIN    (-2147483647i32 - 1) // minimum signed 32 bit value
+#define _I32_MAX      2147483647i32 // maximum signed 32 bit value
+#define _UI32_MAX     0xffffffffui32 // maximum unsigned 32 bit value
+
+// minimum signed 64 bit value
+#define _I64_MIN    (-9223372036854775807i64 - 1)
+// maximum signed 64 bit value
+#define _I64_MAX      9223372036854775807i64
+// maximum unsigned 64 bit value
+#define _UI64_MAX     0xffffffffffffffffui64
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;其实&lt;code class=&quot;highlighter-rouge&quot;&gt;limits.h&lt;/code&gt;都有讲_(:3」∠)_&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Jan 2017 23:21:12 -0500</pubDate>
+        <link>https://aaronss.github.io/2017/01/15/C%E8%AF%AD%E8%A8%80%E5%90%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E7%9A%84%E6%9E%81%E9%99%90%E6%95%B0%E5%80%BC/</link>
+        <guid isPermaLink="true">https://aaronss.github.io/2017/01/15/C%E8%AF%AD%E8%A8%80%E5%90%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E7%9A%84%E6%9E%81%E9%99%90%E6%95%B0%E5%80%BC/</guid>
+        
+        <category>c</category>
+        
+        <category>c++</category>
+        
+        <category>c语言基础</category>
+        
+        
+      </item>
     
       <item>
         <title>从零开始安装 Windows</title>
@@ -39,7 +91,7 @@
   &lt;li&gt;网络连接 &lt;del&gt;没有网络的可以用手机开热点&lt;/del&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;获取-windows-10-安装镜像&quot;&gt;获取 Windows 10 安装镜像&lt;/h2&gt;
+&lt;h2 id=&quot;获取-windows-安装镜像&quot;&gt;获取 Windows 安装镜像&lt;/h2&gt;
 &lt;p&gt;这里我提供了多种途径，适合各种不同情况的同学(仅限非大陆用户)&lt;/p&gt;
 
 &lt;h4 id=&quot;从微软官网购买正版-windows-10&quot;&gt;从微软官网购买正版 Windows 10&lt;/h4&gt;
@@ -112,6 +164,14 @@
 
 &lt;p&gt;打开下载好的镜像，点击&lt;strong&gt;Write&lt;/strong&gt;按钮&lt;br /&gt;
 进度条走完以后，Windows安装介质就制作完成了&lt;/p&gt;
+
+&lt;h2 id=&quot;从安装介质启动&quot;&gt;从安装介质启动&lt;/h2&gt;
+
+&lt;h4 id=&quot;bios-设置&quot;&gt;BIOS 设置&lt;/h4&gt;
+
+&lt;p&gt;首先你需要知道自己电脑进入 BIOS 的按钮是什么&lt;br /&gt;
+一般来讲，当你按下开机按钮后的第一个画面上都会有显示的&lt;br /&gt;
+没有的话，可以点击&lt;a href=&quot;https://www.google.com&quot;&gt;这里&lt;/a&gt;，然后你知道要怎么做了&lt;/p&gt;
 
 &lt;h1 id=&quot;我居然没写完就交上来了_3_&quot;&gt;我居然没写完就交上来了_(:3」∠)_&lt;/h1&gt;
 </description>
