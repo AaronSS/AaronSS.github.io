@@ -3,15 +3,15 @@
   <channel>
     <title>Aaron's Blog</title>
     <description>To Be A Lean Developer!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 17 Jan 2017 10:16:25 -0500</pubDate>
-    <lastBuildDate>Tue, 17 Jan 2017 10:16:25 -0500</lastBuildDate>
+    <link>https://aaronss.github.io/</link>
+    <atom:link href="https://aaronss.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 17 Jan 2017 10:48:37 -0500</pubDate>
+    <lastBuildDate>Tue, 17 Jan 2017 10:48:37 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>C语言各数据类型的极限数值</title>
-        <description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#define MB_LEN_MAX    5             // max. # bytes in multibyte char
+        <description>&lt;div class=&quot;language-cpp highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#define MB_LEN_MAX    5             // max. # bytes in multibyte char
 #define SHRT_MIN    (-32768)        // minimum (signed) short value
 #define SHRT_MAX      32767         // maximum (signed) short value
 #define USHRT_MAX     0xffff        // maximum unsigned short value
@@ -24,33 +24,33 @@
 #define LLONG_MAX     9223372036854775807i64       // maximum signed long long int value
 #define LLONG_MIN   (-9223372036854775807i64 - 1)  // minimum signed long long int value
 #define ULLONG_MAX    0xffffffffffffffffui64       // maximum unsigned long long int value
-
-#define _I8_MIN     (-127i8 - 1)    // minimum signed 8 bit value
+&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#define _I8_MIN     (-127i8 - 1)    // minimum signed 8 bit value
 #define _I8_MAX       127i8         // maximum signed 8 bit value
 #define _UI8_MAX      0xffui8       // maximum unsigned 8 bit value
-
-#define _I16_MIN    (-32767i16 - 1) // minimum signed 16 bit value
+&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#define _I16_MIN    (-32767i16 - 1) // minimum signed 16 bit value
 #define _I16_MAX      32767i16      // maximum signed 16 bit value
 #define _UI16_MAX     0xffffui16    // maximum unsigned 16 bit value
-
-#define _I32_MIN    (-2147483647i32 - 1) // minimum signed 32 bit value
+&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#define _I32_MIN    (-2147483647i32 - 1) // minimum signed 32 bit value
 #define _I32_MAX      2147483647i32 // maximum signed 32 bit value
 #define _UI32_MAX     0xffffffffui32 // maximum unsigned 32 bit value
-
-// minimum signed 64 bit value
-#define _I64_MIN    (-9223372036854775807i64 - 1)
-// maximum signed 64 bit value
-#define _I64_MAX      9223372036854775807i64
-// maximum unsigned 64 bit value
-#define _UI64_MAX     0xffffffffffffffffui64
-&lt;/code&gt;&lt;/pre&gt;
+&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// minimum signed 64 bit value
+&lt;/span&gt;&lt;span class=&quot;cp&quot;&gt;#define _I64_MIN    (-9223372036854775807i64 - 1)
+&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;// maximum signed 64 bit value
+&lt;/span&gt;&lt;span class=&quot;cp&quot;&gt;#define _I64_MAX      9223372036854775807i64
+&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;// maximum unsigned 64 bit value
+&lt;/span&gt;&lt;span class=&quot;cp&quot;&gt;#define _UI64_MAX     0xffffffffffffffffui64
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
 &lt;p&gt;其实&lt;code class=&quot;highlighter-rouge&quot;&gt;limits.h&lt;/code&gt;都有讲_(:3」∠)_&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Jan 2017 23:21:12 -0500</pubDate>
-        <link>http://localhost:4000/2017/01/15/C-limits/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/15/C-limits/</guid>
+        <link>https://aaronss.github.io/2017/01/15/C-limits/</link>
+        <guid isPermaLink="true">https://aaronss.github.io/2017/01/15/C-limits/</guid>
         
         <category>c</category>
         
@@ -176,8 +176,8 @@
 &lt;h1 id=&quot;我居然没写完就交上来了_3_&quot;&gt;我居然没写完就交上来了_(:3」∠)_&lt;/h1&gt;
 </description>
         <pubDate>Tue, 06 Dec 2016 07:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016/12/06/windows-setup/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/06/windows-setup/</guid>
+        <link>https://aaronss.github.io/2016/12/06/windows-setup/</link>
+        <guid isPermaLink="true">https://aaronss.github.io/2016/12/06/windows-setup/</guid>
         
         <category>windows</category>
         
@@ -208,8 +208,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 05 Dec 2016 07:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016/12/05/hello/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/05/hello/</guid>
+        <link>https://aaronss.github.io/2016/12/05/hello/</link>
+        <guid isPermaLink="true">https://aaronss.github.io/2016/12/05/hello/</guid>
         
         <category>hello-world</category>
         
