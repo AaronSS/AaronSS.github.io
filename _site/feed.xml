@@ -5,13 +5,13 @@
     <description>To Be A Lean Developer!</description>
     <link>https://aaronss.github.io/</link>
     <atom:link href="https://aaronss.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 17 Jan 2017 10:56:21 -0500</pubDate>
-    <lastBuildDate>Tue, 17 Jan 2017 10:56:21 -0500</lastBuildDate>
+    <pubDate>Mon, 23 Jan 2017 20:27:56 -0500</pubDate>
+    <lastBuildDate>Mon, 23 Jan 2017 20:27:56 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>C语言各数据类型的极限数值</title>
-        <description>&lt;div class=&quot;language-cpp highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#define MB_LEN_MAX    5             // max. # bytes in multibyte char
+        <description>&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#define MB_LEN_MAX    5             // max. # bytes in multibyte char
 #define SHRT_MIN    (-32768)        // minimum (signed) short value
 #define SHRT_MAX      32767         // maximum (signed) short value
 #define USHRT_MAX     0xffff        // maximum unsigned short value
@@ -143,9 +143,10 @@
 &lt;p&gt;&lt;em&gt;就是U盘启动器啦&lt;/em&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;下载安装-win32-disk-imager&quot;&gt;下载安装 &lt;a href=&quot;https://sourceforge.net/projects/win32diskimager/files/latest/download&quot;&gt;Win32 Disk Imager&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;del&gt;悄悄提醒一下，蓝色的字都是不能按下去的(´；ω；`)&lt;/del&gt;&lt;/p&gt;
 
-&lt;p&gt;安装过程略。。。&lt;br /&gt;
-&lt;del&gt;脑补我已经很详细地写在这里了&lt;/del&gt;&lt;/p&gt;
+&lt;h4 id=&quot;软件安装&quot;&gt;软件安装&lt;/h4&gt;
+&lt;p&gt;&lt;del&gt;脑补我已经很详细地写在这里了&lt;/del&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;写入镜像到u盘&quot;&gt;写入镜像到U盘&lt;/h4&gt;
 &lt;p&gt;此操作会清除U盘&lt;strong&gt;所有数据&lt;/strong&gt;&lt;/p&gt;
@@ -163,7 +164,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/windows/w2.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;打开下载好的镜像，点击&lt;strong&gt;Write&lt;/strong&gt;按钮&lt;br /&gt;
-进度条走完以后，Windows安装介质就制作完成了&lt;/p&gt;
+进度条走完以后，Windows安装介质就制作完成了
+如果系统叫你格式化什么的通通无视_(:3」∠)_&lt;/p&gt;
 
 &lt;h2 id=&quot;从安装介质启动&quot;&gt;从安装介质启动&lt;/h2&gt;
 
@@ -171,7 +173,7 @@
 
 &lt;p&gt;首先你需要知道自己电脑进入 BIOS 的按钮是什么&lt;br /&gt;
 一般来讲，当你按下开机按钮后的第一个画面上都会有显示的&lt;br /&gt;
-没有的话，可以点击&lt;a href=&quot;https://www.google.com&quot;&gt;这里&lt;/a&gt;，然后你知道要怎么做了&lt;/p&gt;
+没有的话，可以点击&lt;a href=&quot;https://www.google.com&quot;&gt;这里&lt;/a&gt;(天朝按&lt;a href=&quot;https://www.baidu.com&quot;&gt;这里&lt;/a&gt;)，然后你知道要怎么做了&lt;/p&gt;
 
 &lt;h1 id=&quot;我居然没写完就交上来了_3_&quot;&gt;我居然没写完就交上来了_(:3」∠)_&lt;/h1&gt;
 </description>

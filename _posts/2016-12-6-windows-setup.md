@@ -83,8 +83,9 @@ https://software-download.microsoft.com/pr/Win10_1607_EnglishInternational_x64.i
 *就是U盘启动器啦*
 
 #### 下载安装 [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/files/latest/download)
+~~悄悄提醒一下，蓝色的字都是不能按下去的(´；ω；`)~~
 
-安装过程略。。。  
+#### 软件安装  
 ~~脑补我已经很详细地写在这里了~~
 
 #### 写入镜像到U盘
@@ -104,6 +105,7 @@ https://software-download.microsoft.com/pr/Win10_1607_EnglishInternational_x64.i
 
 打开下载好的镜像，点击**Write**按钮  
 进度条走完以后，Windows安装介质就制作完成了
+如果系统叫你格式化什么的通通无视_(:3」∠)_
 
 ## 从安装介质启动
 
@@ -111,7 +113,7 @@ https://software-download.microsoft.com/pr/Win10_1607_EnglishInternational_x64.i
 
 首先你需要知道自己电脑进入 BIOS 的按钮是什么  
 一般来讲，当你按下开机按钮后的第一个画面上都会有显示的  
-没有的话，可以点击[这里](https://www.google.com)，然后你知道要怎么做了
+没有的话，可以点击[这里](https://www.google.com)(天朝按[这里](https://www.baidu.com))，然后你知道要怎么做了
 
 
 
