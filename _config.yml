@@ -3,20 +3,21 @@ title: Aaron's Blog
 SEOTitle: Aaron的博客 | Aaron's Blog
 header-img: img/home-bg.jpg
 email: l7899616@gmail.com
-description: "To Be A Lean Developer!"
+description: "折腾都源于有一颗好(zuo)奇(si)的心"
 keyword: ""
 url: "https://aaronss.github.io"              # your host, for absolute URL
-# baseurl: "/blog"        # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
-RSS: ture
-#weibo_username:     aaaonss
-#zhihu_username:     aaaonss
+RSS: false
+weibo_username:     aaronss
+zhihu_username:     aaronss
 github_username:    aaronss
-#twitter_username:  aaaonss
-#facebook_username:  aaaonss
+twitter_username:   aaronss
+#facebook_username:  aaronss
+# linkedin_username:  firstname-lastname-idxxxx
 
 
 
@@ -25,7 +26,7 @@ github_username:    aaronss
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
@@ -47,29 +48,27 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: aaronss
+disqus_username: Aaronss
 
-# Duoshuo settings
-#duoshuo_username: aaronss
-# Share component is depend on Comment so we can NOT use share only.
-#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-
+# Netease setttings
+netease_comment: false
 
 
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+# ba_track_id: [your track id]
+
 # Google Analytics
 ga_track_id: 'UA-88473145-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto
+ga_domain: aaronss.github.io
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "随便写写，不要较真嘛"
+sidebar-avatar: /img/me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -79,22 +78,18 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
 # Friends
-#friends: [
-#    {
-#        title: "Hux Blog",
-#        href: "http://huangxuan.me"
-#    },{
-#        title: "Foo",
-#        href: "#"
-#    },{
-#        title: "Bar",
-#        href: "#"
-#    },{
-#        title: "Example Friends",
-#        href: "#"
-#    },{
-#        title: "It helps SEO",
-#        href: "#"
-#    }
-#]
+friends: [
+    {
+    #     title: "Su",
+    #     href: "http://su.gallery/"
+    # },{
+
+    }
+]
