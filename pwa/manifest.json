@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "Aaron Blog",
   "short_name": "Aaron Blog",
+=======
+  "name": "Hux Blog",
+  "short_name": "Hux Blog",
+>>>>>>> 55f2f7fe03ce204b9f0fd418d1031886bc06ae1f
   "description": "About an engineer & designer who loves web.",
   "icons": [{
     "src": "icons/128.png",
