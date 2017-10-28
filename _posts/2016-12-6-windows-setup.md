@@ -20,7 +20,7 @@ tags:
 
 ## 前言
 
-每次融入一个新的~~[麻瓜](https://zh.wikipedia.org/wiki/%E9%BA%BB%E7%93%9C)~~圈子，说起自己是程序程序猿，基本都会发生这样的情况,对于程序猿来说这很尴尬。 
+每次融入一个新的~~[麻瓜](https://zh.wikipedia.org/wiki/%E9%BA%BB%E7%93%9C)~~圈子，说起自己是程序程序猿，基本都会发生这样的情况,对于程序猿来说这很尴尬。
 
 这就是为什么我要写这篇博客  
 ~~以后有人问就直接把我博客的链接一扔，不仅可以化解尴尬，还能顺便装一逼,一举两得~~
@@ -65,47 +65,31 @@ tags:
 ~~十年高龄老爷机请选择X86~~
 - 本教程适用于各种语言版的 Windows ,你可以自由的选择系统语言(安装后可更改)
 
-#### 懒人一键下载
-
-都已经懒到如这种度了，说明什么的也你不想看了，那你一定会喜欢这种简单~~粗♂暴~~的方式
-
-**中文版**  
-```
-https://software-download.microsoft.com/pr/Win10_1607_Chinese(Simplified)_x64.iso?t=a416b633-7402-4d2a-a9d3-af772874e0ed&e=1481149901&h=289084f046ff9973de097fbfc95c636d
-```
-
-**英文版**  
-```
-https://software-download.microsoft.com/pr/Win10_1607_EnglishInternational_x64.iso?t=62cecda0-f22e-4a22-b20d-3eef1a877f76&e=1481149911&h=a5f408f20cae41dcf39a22c432af799c
-```
-
 ## 制作可移动安装介质
 *就是U盘启动器啦*
 
-#### 下载安装 [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/files/latest/download)
+#### 下载可引导USB闪存盘制作工具 [Rufs](https://rufus.akeo.ie/)
 ~~悄悄提醒一下，蓝色的字都是不能按下去的(´；ω；`)~~
 
-#### 软件安装  
-~~脑补我已经很详细地写在这里了~~
 
 #### 写入镜像到U盘
 此操作会清除U盘**所有数据**
 
-先插上U盘，再打开刚刚安装好的程序
+打开软件，选择你的U盘
 
-程序默认是选择了U盘的，可以在Device选项更改
-
-然后点击文件夹图标，像这样(我的截图没有插U盘)
+然后点击文件夹图标，像这样
 
 ![img](/img/windows/w1.png)
 
-然后在文件类型那选择所有文件类型，就像这样
+这里选择你刚刚下载好的镜像文件
 
-![img](/img/windows/w2.png)
+打开下载好的镜像，点击**Start**按钮
 
-打开下载好的镜像，点击**Write**按钮  
+（**U盘中的数据将会全部被清除**，做好备份，千万不要备份到正要重装系统的这台电脑！）
+
+出现任何选项全部选是
+
 进度条走完以后，Windows安装介质就制作完成了
-如果系统叫你格式化什么的通通无视_(:3」∠)_
 
 ## 从安装介质启动
 
@@ -113,8 +97,6 @@ https://software-download.microsoft.com/pr/Win10_1607_EnglishInternational_x64.i
 
 首先你需要知道自己电脑进入 BIOS 的按钮是什么  
 一般来讲，当你按下开机按钮后的第一个画面上都会有显示的  
-没有的话，可以点击[这里](https://www.google.com)(天朝按[这里](https://www.baidu.com))，然后你知道要怎么做了
+没有的话，可以点击[这里](https://www.google.com)(在天朝按[这里](https://www.baidu.com))，然后你知道要怎么做了
 
-
-
-# 我居然没写完就交上来了\_(:3」∠)\_
+在 **BIOS** 的 **Boot** 选项中将你的U盘移动至第一位，然后保存并重启，安装程序便启动了，接下来只要一直无脑点确定就行了！
