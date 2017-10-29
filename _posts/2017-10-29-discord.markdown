@@ -1,0 +1,9 @@
+---
+layout:     keynote
+title:      "圣伯纳德战术指挥系统解决方案"
+subtitle:   "中国驻康村总领事馆指挥部"
+iframe:     "/js/bideo.js/index.html"
+date:       2017-10-29
+author:     "Hux"
+tags:
+---
