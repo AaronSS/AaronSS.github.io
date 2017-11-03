@@ -5,3 +5,7 @@ npm-debug.log
 */.DS_Store
 */*/.DS_Store
 *.sh
+
+img/icon_wechat.ico
+
+js/bideo.js/cover.png
