@@ -12,4 +12,19 @@ tags:
 鉴于圣伯纳德战斗部门内部长产期处于混乱状态，中国驻康村总领事馆指挥部决定：向各战斗人员批量部署战术指挥系统，以实现更加统一，高效的战术交流，提高作战效率。
 
 #### 战术优势
-Discord 是一款闭源免费的战术交流系统，它跨平台，可以Microsoft Windows、macOS、Android、iOS、Linux上，甚至可以直接运行在浏览器中。Discord 在全球分布了九个服务器为了维持软件的高效应用来确保用户端之间的低延迟。在 Discord 中发送的任何消息都将被永久储存在服务器上，避免了传统即使通讯工具无法同步消息记录都尴尬。
+Discord 是一款闭源免费的战术交流系统，它跨平台，支持 Microsoft Windows、macOS、Android、iOS、Linux，甚至可以直接运行在浏览器中。Discord 在全球分布了九个服务器为了维持软件的高效应用来确保用户端之间的低延迟。在 Discord 中发送的任何消息都将被永久储存在服务器上，避免了传统即使通讯工具无法同步消息记录都尴尬。
+
+![img](/img/in-post/discord/1.jpg)
+Microsoft Windows 版本的 Discord 还支持直接嵌入游戏中
+
+![img](/img/in-post/discord/2.png)
+无需切换应用程序即可进行操作
+
+#### 配置嵌入系式统
+
+![img](/img/in-post/discord/3.jpg)
+首先打开软件设置
+![img](/img/in-post/discord/4.png)
+将Games中的开关打开(若在游戏中没有显示,请自行将游戏添加到下方的列表内)
+![img](/img/in-post/discord/5.png)
+配置热键后 在游戏中按下热键菜单就会展开了
