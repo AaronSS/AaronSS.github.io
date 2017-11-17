@@ -10,8 +10,7 @@ tags:
 
 <div class="post-wrap">
 															<div class="post-content entry-content">
-									<h1>Desert Biome Facts</h1>
-<h2>Desert Biome Description</h2>
+<h1>Desert Biome Description</h1>
 <p>The <b>desert biome</b> is one that is very hot and dry. They are found at the lower latitudes, between the Tropic of Cancer and the Tropic of Capricorn. Light winds occur often which evaporates any type of moisture that is typically going to develop in them. The heat is very dry and that makes it hard for too many types of plants or animals to be able to survive in such biomes. Approximately 20% of the Earth falls into this category.</p>
 <p>Some of the desert biomes are extremely large. For example the Sahara desert in <strong><a title="African species" href="http://bioexpedition.com/tag/africa/">Africa</a></strong> is more than 3.5 million square miles in size. Others are extremely dry. For example the Atacama desert in Chile is a place that gets about ½ an inch of precipitation annually. It never rains there – the precipitation comes from the fog.</p>
 <div class="one_half">
