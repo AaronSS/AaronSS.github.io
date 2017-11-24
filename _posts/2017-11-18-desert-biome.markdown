@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "DESERT BIOME Beta"
+title:      "DESERT BIOME"
 subtitle:   ""
-date:       2017-11-09 12:00:00
+date:       2017-11-18 12:00:00
 author:     "Aaron"
 header-img: "img/in-post/desert/3.jpg"
 tags:
@@ -44,6 +44,7 @@ That says it all when most people consider what this particular area is going to
 # Characteristics
 
 ![img](/img/in-post/desert/2.jpeg)
+
 A desert biome is one that receives less than 10 inches of annual precipitation. What some people don’t realize is that a desert can be extremely hot during the day but then very cool at night. The extreme changes in temperature from day to night can make it very hard for living things to successfully thrive in such an environment.
 
 Many desert biomes are formed in areas not too far from mountain locations. Scientists believe that this is the result of a rain shadow. The process involves air moving up and over the mountain range. As it moves though it gets cooler which means it is harder for it to retain any moisture. That is when it will rain or even snow if the temperatures are cool enough.
@@ -51,6 +52,8 @@ Many desert biomes are formed in areas not too far from mountain locations. Scie
 However, the opposite is going to occur as the air is moving down the other side of the mountain. It is going to get warmer as it moves downward. This warm air though is going to hold on to the moisture in it. When you are talking about temperatures that easily exceed 100 degrees in many desert biomes, that is why it hardly ever is going to rain in these locations.
 
 # Fauna
+
+![img](/img/in-post/desert/5.jpg)
 
 There is very limited types of plant and animal life that are able to live in the desert biome. Those that do live in the desert biome have learned to adapt to the temperatures. They have also learned to survive with very little water and very little food. The majority of the animals living in the desert biome are nocturnal. This means they sleep during the heat of the day and they are active at night when the sun goes down.
 
@@ -63,6 +66,8 @@ Of course there are larger animals in the desert biome as they are able to feed 
 One of the living creatures in the desert biome that thrives with these harsh conditions is the Gila Monster. It is a very aggressive type of retile. It feeds on eggs and on small mammals. This creature needs the heat for its body to stay regulated. It can be active both during the day and the night. They are very dangerous to humans due to the toxic venom that is produced when they bite.
 
 # Flora
+
+![img](/img/in-post/desert/4.jpg)
 
 In order for any plants to survive in the desert biome, they have to be able to collect and store what water is present. They also have to be able to reduce the water evaporating from them. The cactus is the number one plant you will find living in a desert biome. The design of this plant makes it possible for them to hold onto the moisture they have.
 
