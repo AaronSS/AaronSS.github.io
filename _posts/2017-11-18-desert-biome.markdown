@@ -14,26 +14,10 @@ Some of the desert biomes are extremely large. For example the Sahara desert in 
 
 ![img](/img/in-post/desert/1.jpg)
 
-<div class="table-responsive"><table border="0" cellspacing="0" cellpadding="0" class="table">
-<tbody>
-<tr>
-<td valign="top" width="92"><strong>Climate</strong></td>
-<td valign="top" width="113">From 32 °F at night and 113 °F at day.</td>
-</tr>
-<tr>
-<td valign="top" width="92"><strong>Plants</strong></td>
-<td valign="top" width="113">Cactus, shrubs, Cardón, Camel Thorn Tree, Prickly pear, Saguaro.</td>
-</tr>
-<tr>
-<td valign="top" width="92"><strong>Animals</strong></td>
-<td valign="top" width="113">Snakes, lizards, tarantulas, dingo, porcupines, coyotes.</td>
-</tr>
-<tr>
-<td valign="top" width="92"><strong>Location</strong></td>
-<td valign="top" width="113">North and South America, Africa, Asia and Australia.</td>
-</tr>
-</tbody>
-</table></div>
+| **Climate** | From 32 °F at night and 113 °F at day. |
+| **Plants** | Cactus, shrubs, Cardón, Camel Thorn Tree, Prickly pear, Saguaro. |
+| **Animals** | Snakes, lizards, tarantulas, dingo, porcupines, coyotes. |
+| **Location** | North and South America, Africa, Asia and Australia. |
 
 The desert biome has two extremes that make it difficult to survive. First, it is extremely hot and second, it is extremely dry. Most people don’t realize though that it can be come cold as the sun goes down in the desert. This is because there are very few trees or other elements there to retain any heat. The changes in the temperatures can be very harsh for a human which is why it can be so dangerous to be exploring in the desert on your own.
 
