@@ -4,9 +4,7 @@ title:  "C语言各数据类型的极限数值"
 date:   2017-01-15 23:21:12 -0500
 author: "Aaron"
 header-img: "img/教室.jpg"
-tags: c
-      c++
-      c语言基础
+tags:
 ---
 
 ```c
